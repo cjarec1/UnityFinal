@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: b2138d2e2fb73cc4b9fd857ef10f9cb9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _ctnm_boothCorner_4
+    100002: _ctnm_boothCorner_5
+    100004: _ctnm_boothCorner_6
+    100006: _ctnm_boothCorner_7
+    100008: _ctnm_chr_0
+    100010: _ctnm_chr_1
+    100012: _ctnm_chr_2
+    100014: _ctnm_chr_3
+    100016: _ctnm_drink_0
+    100018: _ctnm_drink_1
+    100020: _ctnm_drink_2
+    100022: _ctnm_drink_3
+    100024: _ctnm_eat_0
+    100026: _ctnm_eat_1
+    100028: _ctnm_eat_2
+    100030: _ctnm_eat_3
+    100032: _ctnm_placemat_0
+    100034: _ctnm_placemat_1
+    100036: _ctnm_placemat_2
+    100038: _ctnm_placemat_3
+    100040: _ctnm_sitIndividual_0
+    100042: _ctnm_sitIndividual_1
+    100044: _ctnm_sitIndividual_2
+    100046: _ctnm_sitIndividual_3
+    100048: _ctnm_sitShared_0
+    100050: _ctnm_sitShared_1
+    100052: _ctnm_sitShared_2
+    100054: _ctnm_sitShared_3
+    100056: _deco_lrg
+    100058: _deco_med_1
+    100060: _deco_med_2
+    100062: _deco_med_3
+    100064: _deco_sml_1
+    100066: _deco_sml_2
+    100068: _deco_sml_3
+    100070: _deco_sml_4
+    100072: _deco_sml_5
+    100074: b__ROOT__
+    100076: b__subroot__0
+    100078: b__subroot__1
+    100080: b__subroot__2
+    100082: b__subroot__3
+    100084: b__subroot__4
+    100086: b__subroot__5
+    100088: b__subroot__6
+    100090: b__subroot__7
+    100092: rig
+    100094: s4studio_mesh_0
+    100096: s4studio_mesh_1
+    100098: s4studio_mesh_2
+    100100: s4studio_mesh_3
+    100102: //RootNode
+    100104: transformBone
+    400000: _ctnm_boothCorner_4
+    400002: _ctnm_boothCorner_5
+    400004: _ctnm_boothCorner_6
+    400006: _ctnm_boothCorner_7
+    400008: _ctnm_chr_0
+    400010: _ctnm_chr_1
+    400012: _ctnm_chr_2
+    400014: _ctnm_chr_3
+    400016: _ctnm_drink_0
+    400018: _ctnm_drink_1
+    400020: _ctnm_drink_2
+    400022: _ctnm_drink_3
+    400024: _ctnm_eat_0
+    400026: _ctnm_eat_1
+    400028: _ctnm_eat_2
+    400030: _ctnm_eat_3
+    400032: _ctnm_placemat_0
+    400034: _ctnm_placemat_1
+    400036: _ctnm_placemat_2
+    400038: _ctnm_placemat_3
+    400040: _ctnm_sitIndividual_0
+    400042: _ctnm_sitIndividual_1
+    400044: _ctnm_sitIndividual_2
+    400046: _ctnm_sitIndividual_3
+    400048: _ctnm_sitShared_0
+    400050: _ctnm_sitShared_1
+    400052: _ctnm_sitShared_2
+    400054: _ctnm_sitShared_3
+    400056: _deco_lrg
+    400058: _deco_med_1
+    400060: _deco_med_2
+    400062: _deco_med_3
+    400064: _deco_sml_1
+    400066: _deco_sml_2
+    400068: _deco_sml_3
+    400070: _deco_sml_4
+    400072: _deco_sml_5
+    400074: b__ROOT__
+    400076: b__subroot__0
+    400078: b__subroot__1
+    400080: b__subroot__2
+    400082: b__subroot__3
+    400084: b__subroot__4
+    400086: b__subroot__5
+    400088: b__subroot__6
+    400090: b__subroot__7
+    400092: rig
+    400094: s4studio_mesh_0
+    400096: s4studio_mesh_1
+    400098: s4studio_mesh_2
+    400100: s4studio_mesh_3
+    400102: //RootNode
+    400104: transformBone
+    2100000: DIFFUSE_003
+    2100002: DIFFUSE_002
+    2100004: DIFFUSE_001
+    2100006: DIFFUSE
+    4300000: s4studio_mesh_3
+    4300002: s4studio_mesh_2
+    4300004: s4studio_mesh_1
+    4300006: s4studio_mesh_0
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: s4studio_mesh_0
+    13700002: s4studio_mesh_1
+    13700004: s4studio_mesh_2
+    13700006: s4studio_mesh_3
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DIFFUSE
+    second: {fileID: 2100000, guid: 513e133fcff508244a1480103b25959c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DIFFUSE_001
+    second: {fileID: 2100000, guid: 513e133fcff508244a1480103b25959c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DIFFUSE_002
+    second: {fileID: 2100000, guid: 513e133fcff508244a1480103b25959c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DIFFUSE_003
+    second: {fileID: 2100000, guid: a90bdacfcddf56842abab72dce4a6ae5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
